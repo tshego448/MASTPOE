@@ -65,7 +65,7 @@ pnpm test
 
 ## Screen recording
 
-A short screen recording demonstrating the menu, search and filters, statistics, editing and deleting a dish, and name-only sign-in is included at [recordings/chef-menu-demo.webm](recordings/chef-menu-demo.webm).
+A short screen recording demonstrating the menu, search and filters, statistics, editing and deleting a dish, and name-only sign-in is included at (https://www.youtube.com/watch?v=9BZLAP-HjwY).
 
 ## Validation
 
